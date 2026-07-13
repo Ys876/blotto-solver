@@ -147,3 +147,4 @@ benchmark.py   — 10,000-game simulation vs uniform / greedy / random baselines
 visualize.py   — payoff heatmap, strategy bar chart, win-rate comparison
 main.py        — CLI: solve / benchmark / visualize / interactive play mode
 ```
+
